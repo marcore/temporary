@@ -1,2 +1,1 @@
-## urlmapping_162526454 default 2022-08-25T10:40:56Z
-RewriteRule ^/de/elektrofahrzeuge/elektromobilitaet-erleben/e-mobilitaet/elektromobilitaet-in-australien.html$ https://www.volkswagen.de/de/elektrofahrzeuge/elektro-und-hybridfahrzeuge.html [R=301,NC,NE,L]
+/de/elektrofahrzeuge/elektromobilitaet-erleben/e-mobilitaet/elektromobilitaet-in-australien.html https://www.volkswagen.de/de/elektrofahrzeuge/elektro-und-hybridfahrzeuge.html
